@@ -46,7 +46,7 @@ main {
     border-radius: 1rem;
 }
 
-#output-translate {
+#translate-output {
     box-sizing: border-box;
     margin-top: 1rem;
     min-height: 15vh;
